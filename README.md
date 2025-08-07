@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 #### Estudando no momento:
 [![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
+[![C#](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 <!--[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)--!>
 <!--[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 <!-- #### Databases: -->
