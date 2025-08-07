@@ -17,9 +17,9 @@ Here are some ideas to get you started:
  <!--[Kayk GitHub stats](https://github-readme-stats.vercel.app/api?username=kayk-dev&show_icons=true&bg_color=6F00FF&title_color=fff&text_color=fff&icon_color=000)-->
 ## Minhas Skills
 #### Conhecimentos principais:
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-[![PHP](https://shields.io/badge/-PHP-222222?style=for-the-badge&logo=php)](https://shields.io/badge/-PHP-3776AB?style=for-the-badge&logo=php)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=CSS&logoColor=white)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+[![PHP](https://shields.io/badge/-PHP-222222?style=for-the-badge&logo=php&logoColor=white)](https://shields.io/badge/-PHP-3776AB?style=for-the-badge&logo=php&logoColor=white)
 #### Estudando no momento:
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=unity&logoColor=white)](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=unity&logoColor=white)
 [![.NET#](https://img.shields.io/badge/-.NET%208.0-blueviolet?style=for-the-badge&logo=dotnet)](https://img.shields.io/badge/-.NET%208.0-blueviolet?style=for-the-badge&logo=dotnet)
