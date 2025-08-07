@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 [![PHP](https://shields.io/badge/-PHP-222222?style=for-the-badge&logo=php)](https://shields.io/badge/-PHP-3776AB?style=for-the-badge&logo=php)
 #### Estudando no momento:
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=unity&logoColor=white)](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=unity&logoColor=white)
+[![.NET#](https://img.shields.io/badge/-.NET%208.0-blueviolet?style=for-the-badge&logo=dotnet)](https://img.shields.io/badge/-.NET%208.0-blueviolet?style=for-the-badge&logo=dotnet)
 [![Flutter#](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 <!--[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)--!>
 <!--[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
