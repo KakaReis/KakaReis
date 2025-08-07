@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 <!-- [![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) -->
 #### Ferramentas:
 [![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)
+[![VS](https://img.shields.io/badge/visual_studio-673999?style=for-the-badge&logo=vs&logoColor=white)](https://img.shields.io/badge/visual_studio-673999?style=for-the-badge&logo=vs&logoColor=white)
 ## Contatos:
 [![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaiky916/)
 <!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayk-messias-gomes-b62a34278/) -->
