@@ -11,10 +11,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## <p align="center">Seja bem-vindo!👋 Eu me chamo Kaiky, sou um desenvolvedor iniciante que veio da área de design. Estou fascinado com front-end, mas, estou estudando com o objetivo de me tornar full-stack no futuro. Por isso, estou sempre em busca de novos conhecimentos e sempre atualizando o que já aprendi!.</p>&nbsp;
+## <p align="center">Seja bem-vindo!👋 Eu me chamo Kaiky, sou um desenvolvedor iniciante que veio da área de design editorial. Tenho me esforçado para aprender e me familiarizar o máximo possível com a programação tanto web como de software. Por isso, estou sempre em busca de novos conhecimentos e sempre atualizando o que já aprendi!.</p>&nbsp;
  &nbsp;
  &nbsp;
- <!--![Kayk GitHub stats](https://github-readme-stats.vercel.app/api?username=kayk-dev&show_icons=true&bg_color=6F00FF&title_color=fff&text_color=fff&icon_color=000)-->
+ <!--[Kayk GitHub stats](https://github-readme-stats.vercel.app/api?username=kayk-dev&show_icons=true&bg_color=6F00FF&title_color=fff&text_color=fff&icon_color=000)-->
 ## Minhas Skills
 #### Conhecimentos principais:
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
